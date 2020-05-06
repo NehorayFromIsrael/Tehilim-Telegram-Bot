@@ -20,5 +20,4 @@ pip install -r requirements.txt
  https://t.me/Tehilim_Book_bot
 
 
-![Paslams](/images/img.png)
-Format: ![Paslams](url)
+

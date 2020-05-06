@@ -5,7 +5,7 @@ import Program.Connect_To_Mongo as Mon
 # - SET BOT TOKEN - #
 
 #TOKEN = "1102932689:AAFXsw2xyFRDd_7XBUkEDFHp_uzX3jXLfL0"
-TOKEN = "327420141:AAFkBayr_sNOCWmdg-Qep_TvAUmOj6Nd9QQ"
+TOKEN = ""
 
 #_______________________________________________________#
 # - SET DATABASES - #

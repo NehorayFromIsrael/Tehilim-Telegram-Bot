@@ -1,5 +1,10 @@
-import Program.Connect_To_Mongo as CM
+﻿import Program.Connect_To_Mongo as CM
 from Program.Send import Send as Send
+
+
+
+##### SEND MESSAGES TO ALL USERS IN BOT DATABASE ##########
+
 
 TOKEN = "1102932689:AAFXsw2xyFRDd_7XBUkEDFHp_uzX3jXLfL0"
 
@@ -9,7 +14,7 @@ collection = "Users"
 test_id = 42155571
 activate = False
 
-message_text = "לקהל המשתמשים שלנו אנחנו שמחים לבשר שעדכנו את הבוט , נוספו האפשרויות להשתמש בקריאה משותפת , לאותיות נשמה שמירה במועדפים ועוד! על מנת לקבל את העדכון פשוט לחצו על הפקודה /start 😜😎😇"
+message_text = "לקהל המשתמשים שלנו אנחנו שמחים לבשר שעדכנו את הבוט , נוספו האפשרויות להשתמש בקריאה משותפת , לאותיות נשמה שמירה במועדפים ועוד! על מנת לקבל את העדכון פשוט לחצו על הפקודה /start ðﾟﾘﾜðﾟﾘﾎðﾟﾘﾇ"
 
 
 #__________________________________________________________________________________________________________

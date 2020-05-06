@@ -9,7 +9,7 @@
 **** if your machine uses linux os and its your first time to run bot in the system 
 you shuld use "sudo" to run "Run.py" in oeder to install requirements ****
 
-Also if you using linux make sure to run in python 3 
+Make sure to run in python 3.8.2
 
 **** if you getting error for requirements installation , please see install.py file 
 inside Program folder to install requirements manually ****
